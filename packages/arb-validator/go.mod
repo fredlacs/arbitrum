@@ -8,9 +8,8 @@ require (
 	github.com/gorilla/rpc v1.2.0
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/offchainlabs/arbitrum/packages/arb-avm-cpp v0.6.5
-	github.com/offchainlabs/arbitrum/packages/arb-provider-go v0.6.5 // indirect
 	github.com/offchainlabs/arbitrum/packages/arb-util v0.6.5
-	github.com/offchainlabs/arbitrum/packages/arb-validator-core v0.6.5
+	github.com/offchainlabs/arbitrum/packages/arb-validator-core v0.7.3
 	github.com/pkg/errors v0.9.1
 	google.golang.org/protobuf v1.25.0
 )
