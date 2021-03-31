@@ -7,11 +7,12 @@ require (
 	github.com/golang/protobuf v1.4.2
 	github.com/gorilla/handlers v1.4.2
 	github.com/gorilla/mux v1.7.4
-	github.com/offchainlabs/arbitrum/packages/arb-util v0.6.5
-	github.com/offchainlabs/arbitrum/packages/arb-validator v0.6.5
+	github.com/kr/pretty v0.2.0 // indirect
+	github.com/offchainlabs/arbitrum/packages/arb-util v0.8.0
 	github.com/pkg/errors v0.9.1
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
 	google.golang.org/protobuf v1.25.0
+	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 )
 
 replace github.com/offchainlabs/arbitrum/packages/arb-util => ../arb-util
